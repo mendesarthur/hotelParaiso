@@ -1,7 +1,7 @@
 # Responsive website project using Html5 and CSS3
 ## Web version
 
-<img src=".img/hotel_paraiso_print.png" width="500px" >
+<img src="./img/hotel.png" width= "500px">
 
 <hr/>
 
